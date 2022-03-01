@@ -7,6 +7,8 @@ password.txt
 creditcard.csv
 model/
 .DS_Store
+data/
+
 
 # General
 .DS_Store
